@@ -34,7 +34,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--serif);
-  font-weight: 300;
+  font-weight: 900;
   line-height: 1.7;
   min-height: 100vh;
   overflow-x: hidden;
